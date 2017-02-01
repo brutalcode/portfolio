@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Последние новости</title>
+    <link>http://mysite.local/news/news.php</link>
+    <item>
+      <title>Что-то с чем-то</title>
+      <link>asfd</link>
+      <description><![CDATA[asdf]]></description>
+      <pubDate>2016-10-05 10:27:32</pubDate>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>adsfasf</title>
+      <link>asdfasfd</link>
+      <description><![CDATA[asdfasfd]]></description>
+      <pubDate>2016-10-05 10:26:28</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>adsfadsf</link>
+      <description><![CDATA[asdfsadf]]></description>
+      <pubDate>2016-10-05 10:13:43</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Нотная Грамота</title>
+      <link>фывафыав</link>
+      <description><![CDATA[фавыафа]]></description>
+      <pubDate>2016-10-05 10:11:56</pubDate>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Что-то с чем-то</title>
+      <link>goodday.ru</link>
+      <description><![CDATA[фываыфвафвыа]]></description>
+      <pubDate>2016-10-05 10:10:42</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>ThreeMountains</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Опять что-то старое...]]></description>
+      <pubDate>2016-10-05 10:09:56</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Что-то новое</title>
+      <link>lenta.ru</link>
+      <description><![CDATA[В политике наблюдается новая тенденция, которой не было видно ранее!]]></description>
+      <pubDate>2016-10-05 10:08:20</pubDate>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>ThreeMountains</title>
+      <link>фыавфыа</link>
+      <description><![CDATA[asdf]]></description>
+      <pubDate>2016-10-04 17:55:12</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Тестовая деталь</title>
+      <link>asfdafs</link>
+      <description><![CDATA[safd]]></description>
+      <pubDate>2016-10-04 17:51:48</pubDate>
+      <category>Спорт</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:48:00</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:47:38</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:45:57</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:45:34</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:44:45</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:43:54</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Мобби Дик</title>
+      <link>sadfsadf</link>
+      <description><![CDATA[Неплохая книга]]></description>
+      <pubDate>2016-10-04 17:42:12</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>ThreeMountains</title>
+      <link>goodday.ru</link>
+      <description><![CDATA[Появилась новая студия!]]></description>
+      <pubDate>2016-10-04 10:55:48</pubDate>
+      <category>Культура</category>
+    </item>
+  </channel>
+</rss>
